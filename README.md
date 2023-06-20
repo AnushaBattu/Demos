@@ -164,6 +164,16 @@ N/A
 ![terminal3 | 100x100](./Images/terminal3.PNG)
 
 
+### 6.4 Install GitHub for Desktop
+
+[download GitHub for Desktop](https://desktop.github.com/)
+
+![githubdesktopdownload | 100x100](./Images/githubdesktopdownload.PNG)
+
+![gthbdeskrun | 100x100](./Images/gthbdeskrun.PNG)
+
+![gthbdesk1 | 100x100](./Images/gthbdesk1.PNG)
+
 
 ## 6. Create new project folder in local drive
 
