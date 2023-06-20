@@ -28,10 +28,10 @@ N/A
 > 4. Create .github repository in the new organization
 > 5. Create a new repository called proofofconcepts in the new organization
 > 6. Install the basic required software
->    6.1 VS Code
->    6.2 Git Bash
->    6.3 Terminal
->    6.4 GitHub for desktop
+> 6.1 VS Code
+> 6.2 Git for Windows
+> 6.3 Terminal
+> 6.4 GitHub for desktop
 > 7. Create new project folder in local drive
 > 8. Clone .github and proofofconcepts repositories into new folder using "git clone url"
 > 9. Open the project folder in vs code
@@ -116,6 +116,42 @@ N/A
 ![addopenwith | 100x100](./Images/addopenwith.PNG)
 
 ![vscodeinstallclick | 100x100](./Images/vscodeinstallclick.PNG)
+
+### 6.2 Install Git for Windows
+
+[Git for Windows](https://git-scm.com/downloads)
+
+![gitdownload | 100x100](./Images/gitdownload.PNG)
+
+![gitdownload1 | 100x100](./Images/gitdownload1.PNG)
+
+![gitinstall1 | 100x100](./Images/gitinstall1.PNG)
+
+![gitinstall2 | 100x100](./Images/gitinstall2.PNG)
+
+![gitinstall3 | 100x100](./Images/gitinstall3.PNG)
+
+![gitinstall4 | 100x100](./Images/gitinstall4.PNG)
+
+![gitinstall5 | 100x100](./Images/gitinstall5.PNG)
+
+![gitinstall6 | 100x100](./Images/gitinstall6.PNG)
+
+![gitinstall7 | 100x100](./Images/gitinstall7.PNG)
+
+![gitinstall8 | 100x100](./Images/gitinstall8.PNG)
+
+![gitinstall9 | 100x100](./Images/gitinstall9.PNG)
+
+![gitinstall10 | 100x100](./Images/gitinstall10.PNG)
+
+![gitinstall11 | 100x100](./Images/gitinstal11.PNG)
+
+![gitinstall12 | 100x100](./Images/gitinstall12.PNG)
+
+![gitinstall13 | 100x100](./Images/gitinstall13.PNG)
+
+
 
 ## 6. Create new project folder in local drive
 
