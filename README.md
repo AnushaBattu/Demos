@@ -42,7 +42,7 @@ N/A
 
 ![ArchitectureMicroservicesInAzure | 100x100](./Images/ArchitectureMicroservicesInAzure.PNG)
 
-![Automate everything with devops | 100x100](./Images/Automate everything with devops.PNG)
+![Automateeverythingwithdevops | 100x100](./Images/Automateeverythingwithdevops.PNG)
 
 ## 1. Create GitHub account
 
