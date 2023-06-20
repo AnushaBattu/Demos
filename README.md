@@ -32,8 +32,8 @@ N/A
 > 6.2 Git for Windows
 > 6.3 Terminal
 > 6.4 GitHub for desktop
-> 7. Create new project folder in local drive
-> 8. Clone .github and proofofconcepts repositories into new folder using "git clone url"
+> 7. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
+> 8. Clone proofofconcepts repository into new folder using GitHub for Desktop
 > 9. Open the project folder in vs code
 
 ## 1. Introduction to Microservices
@@ -188,11 +188,15 @@ git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 ![clone2 | 100x100](./Images/clone2.PNG)
 
 
-## 7. Clone .github and proofofconcepts repositories into new folder using "git clone url"
+## 8. Clone proofofconcepts repository into new folder using GitHub for Desktop
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+![cloneproofofconcepts1 | 100x100](./Images/cloneproofofconcepts1.PNG)
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+![cloneproofofconcepts2 | 100x100](./Images/cloneproofofconcepts2.PNG)
+
+![cloneproofofconcepts3 | 100x100](./Images/cloneproofofconcepts3.PNG)
+
+![cloneproofofconcepts4 | 100x100](./Images/cloneproofofconcepts4.PNG)
 
 ## 8. Open the project folder in vs code
 
