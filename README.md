@@ -95,11 +95,13 @@ N/A
 ![profile4 | 100x100](./Images/profile4.PNG)
 
 
-## 4. Create a new repository called proofofconcepts in the new organization
+## 5. Create a new repository called proofofconcepts in the new organization
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+![proofofconcepts1 | 100x100](./Images/proofofconcepts1.PNG)
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+![proofofconcepts2 | 100x100](./Images/proofofconcepts2.PNG)
+
+![proofofconcepts3 | 100x100](./Images/proofofconcepts3.PNG)
 
 ## 5. Install the basic required software
 
