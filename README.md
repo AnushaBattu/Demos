@@ -153,6 +153,18 @@ N/A
 
 
 
+### 6.3 Install Terminal
+
+[download Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+
+![terminal1 | 100x100](./Images/terminal1.PNG)
+
+![terminal2 | 100x100](./Images/terminal2.PNG)
+
+![terminal3 | 100x100](./Images/terminal3.PNG)
+
+
+
 ## 6. Create new project folder in local drive
 
 ![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
