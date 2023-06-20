@@ -198,8 +198,14 @@ git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 
 ![cloneproofofconcepts4 | 100x100](./Images/cloneproofofconcepts4.PNG)
 
-## 8. Open the project folder in vs code
+## 9. Open the project folder in vs code
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+![openwithvscode1 | 100x100](./Images/openwithvscode1.PNG)
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+![openwithvscode2 | 100x100](./Images/openwithvscode2.PNG)
+
+![openwithvscode3 | 100x100](./Images/openwithvscode3.PNG)
+
+![openwithvscode4 | 100x100](./Images/openwithvscode4.PNG)
+
+
