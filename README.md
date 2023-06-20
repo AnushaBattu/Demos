@@ -175,11 +175,18 @@ N/A
 ![gthbdesk1 | 100x100](./Images/gthbdesk1.PNG)
 
 
-## 6. Create new project folder in local drive
+## 7. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+![newfolder | 100x100](./Images/newfolder.PNG)
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+![clone1 | 100x100](./Images/clone1.PNG)
+
+```
+git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
+```
+
+![clone2 | 100x100](./Images/clone2.PNG)
+
 
 ## 7. Clone .github and proofofconcepts repositories into new folder using "git clone url"
 
