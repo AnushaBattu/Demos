@@ -72,11 +72,13 @@ N/A
 
 ![orgcomplete | 100x100](./Images/orgcomplete.PNG)
 
-## 3. Create .github repository in the new organization
+## 4. Create .github repository in the new organization
 
 ![orgreadmefile | 100x100](./Images/orgreadmefile.PNG)
 
 ![creategithubrepo | 100x100](./Images/creategithubrepo.PNG)
+
+![githubrepodetails | 100x100](./Images/githubrepodetails.PNG)
 
 ![hidetasks | 100x100](./Images/hidetasks.PNG)
 
