@@ -58,17 +58,40 @@ N/A
 
 ![githubpuzzle | 100x100](./Images/githubpuzzle.PNG)
 
-## 2. Create new GitHub organization
+![githubcreateaccount | 100x100](./Images/githubcreateaccount.PNG)
 
-![Terraform | 100x100](./Documentation/Images/Terraform.PNG)
+![githublaunchcode | 100x100](./Images/githublaunchcode.PNG)
 
-![Terraform1 | 100x100](./Documentation/Images/Terraform1.PNG)
+## 3. Create new GitHub organization
+
+![neworg | 100x100](./Images/neworg.PNG)
+
+![freeorg | 100x100](./Images/freeorg.PNG)
+
+![orgname | 100x100](./Images/orgname.PNG)
+
+![orgcomplete | 100x100](./Images/orgcomplete.PNG)
 
 ## 3. Create .github repository in the new organization
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+![orgreadmefile | 100x100](./Images/orgreadmefile.PNG)
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+![creategithubrepo | 100x100](./Images/creategithubrepo.PNG)
+
+![hidetasks | 100x100](./Images/hidetasks.PNG)
+
+![hidetasks1 | 100x100](./Images/hidetasks1.PNG)
+
+![newrepoprofile | 100x100](./Images/newrepoprofile.PNG)
+
+![profile1 | 100x100](./Images/profile1.PNG)
+
+![profile2 | 100x100](./Images/profile2.PNG)
+
+![profile3 | 100x100](./Images/profile3.PNG)
+
+![profile4 | 100x100](./Images/profile4.PNG)
+
 
 ## 4. Create a new repository called proofofconcepts in the new organization
 
