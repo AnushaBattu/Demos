@@ -103,11 +103,19 @@ N/A
 
 ![proofofconcepts3 | 100x100](./Images/proofofconcepts3.PNG)
 
-## 5. Install the basic required software
+## 6. Install the basic required software
 
-![AWSLambda | 100x100](./Documentation/Images/AWSLambda.PNG)
+### 6.1 Install VS Code
 
-![AWSLambda1 | 100x100](./Documentation/Images/AWSLambda1.PNG)
+[Download VS Code](https://code.visualstudio.com/download)
+
+![vscodedownload | 100x100](./Images/vscodedownload.PNG)
+
+![vscodeinstall | 100x100](./Images/vscodeinstall.PNG)
+
+![addopenwith | 100x100](./Images/addopenwith.PNG)
+
+![vscodeinstallclick | 100x100](./Images/vscodeinstallclick.PNG)
 
 ## 6. Create new project folder in local drive
 
