@@ -44,11 +44,19 @@ N/A
 
 ![Automateeverythingwithdevops | 100x100](./Images/Automateeverythingwithdevops.PNG)
 
-## 1. Create GitHub account
+## 2. Create GitHub account
 
-![IaC | 100x100](./Documentation/Images/IaC.PNG)
+[Github.com](https://github.com/)
 
-![IaC1 | 100x100](./Documentation/Images/IaC1.PNG)
+![githubhome | 100x100](./Images/githubhome.PNG)
+
+![githubmail | 100x100](./Images/githubmail.PNG)
+
+![githubpassword | 100x100](./Images/githubpassword.PNG)
+
+![githubusername | 100x100](./Images/githubusername.PNG)
+
+![githubpuzzle | 100x100](./Images/githubpuzzle.PNG)
 
 ## 2. Create new GitHub organization
 
