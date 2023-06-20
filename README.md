@@ -2,7 +2,7 @@
 
 ### Date Time: 29-Jun-2023 at 09:00 AM IST
 
-![Anusha|150x150](./Documentation/Images/Anusha.PNG)
+![Anusha|150x150](./Images/Anushademo1.PNG)
 
 ## Prerequisites:
 
@@ -22,18 +22,27 @@ N/A
 
 ## What are we doing today?
 
-> 1. Create GitHub account
-> 2. Create new GitHub organization
-> 3. Create .github repository in the new organization
-> 4. Create a new repository called proofofconcepts in the new organization
-> 5. Install the basic required software
->    5.1 VS Code
->    5.2 Git Bash
->    5.3 Terminal
->    5.4 GitHub for desktop
-> 6. Create new project folder in local drive
-> 7. Clone .github and proofofconcepts repositories into new folder using "git clone url"
-> 8. Open the project folder in vs code
+> 1. Introduction to Microservices
+> 2. Create GitHub account
+> 3. Create new GitHub organization
+> 4. Create .github repository in the new organization
+> 5. Create a new repository called proofofconcepts in the new organization
+> 6. Install the basic required software
+>    6.1 VS Code
+>    6.2 Git Bash
+>    6.3 Terminal
+>    6.4 GitHub for desktop
+> 7. Create new project folder in local drive
+> 8. Clone .github and proofofconcepts repositories into new folder using "git clone url"
+> 9. Open the project folder in vs code
+
+## 1. Introduction to Microservices
+
+![WhatIsMicroservices | 100x100](./Images/WhatIsMicroservices.PNG)
+
+![ArchitectureMicroservicesInAzure | 100x100](./Images/ArchitectureMicroservicesInAzure.PNG)
+
+![Automate everything with devops | 100x100](./Images/Automate everything with devops.PNG)
 
 ## 1. Create GitHub account
 
