@@ -185,7 +185,7 @@ N/A
 git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 ```
 
-![clonegithub2 | 100x100](./Images/clonegithub2.PNG)
+![clonegithubPS | 100x100](./Images/clonegithubPS.PNG)
 
 ![clonegithub3 | 100x100](./Images/clonegithub3.PNG)
 
