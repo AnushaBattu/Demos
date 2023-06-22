@@ -22,29 +22,21 @@ N/A
 
 ## What are we doing today?
 
-> 1. Introduction to Microservices
-> 2. Create GitHub account
-> 3. Create new GitHub organization
-> 4. Create .github repository in the new organization
-> 5. Create a new repository called proofofconcepts in the new organization
-> 6. Install the basic required software
-> 6.1 VS Code
-> 6.2 Git for Windows
-> 6.3 Terminal
-> 6.4 GitHub for desktop
-> 7. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
-> 8. Clone proofofconcepts repository into new folder using GitHub for Desktop
-> 9. Open the project folder in vs code
+> 1. Create GitHub account
+> 2. Create new GitHub organization
+> 3. Create .github repository in the new organization
+> 4. Create a new repository called proofofconcepts in the new organization
+> 5. Install the basic required software
+> 5.1 VS Code
+> 5.2 Git for Windows
+> 5.3 Terminal
+> 5.4 GitHub for desktop
+> 6. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
+> 7. Clone proofofconcepts repository into new folder using GitHub for Desktop
+> 8. Open the project folder in vs code
 
-## 1. Introduction to Microservices
 
-![WhatIsMicroservices | 100x100](./Images/WhatIsMicroservices.PNG)
-
-![ArchitectureMicroservicesInAzure | 100x100](./Images/ArchitectureMicroservicesInAzure.PNG)
-
-![Automateeverythingwithdevops | 100x100](./Images/Automateeverythingwithdevops.PNG)
-
-## 2. Create GitHub account
+## 1. Create GitHub account
 
 [Github.com](https://github.com/)
 
@@ -62,7 +54,7 @@ N/A
 
 ![githublaunchcode | 100x100](./Images/githublaunchcode.PNG)
 
-## 3. Create new GitHub organization
+## 2. Create new GitHub organization
 
 ![neworg | 100x100](./Images/neworg.PNG)
 
@@ -72,7 +64,7 @@ N/A
 
 ![orgcomplete | 100x100](./Images/orgcomplete.PNG)
 
-## 4. Create .github repository in the new organization
+## 3. Create .github repository in the new organization
 
 ![orgreadmefile | 100x100](./Images/orgreadmefile.PNG)
 
@@ -95,7 +87,7 @@ N/A
 ![profile4 | 100x100](./Images/profile4.PNG)
 
 
-## 5. Create a new repository called proofofconcepts in the new organization
+## 4. Create a new repository called proofofconcepts in the new organization
 
 ![proofofconcepts1 | 100x100](./Images/proofofconcepts1.PNG)
 
@@ -103,9 +95,9 @@ N/A
 
 ![proofofconcepts3 | 100x100](./Images/proofofconcepts3.PNG)
 
-## 6. Install the basic required software
+## 5. Install the basic required software
 
-### 6.1 Install VS Code
+### 5.1 Install VS Code
 
 [Download VS Code](https://code.visualstudio.com/download)
 
@@ -117,7 +109,7 @@ N/A
 
 ![vscodeinstallclick | 100x100](./Images/vscodeinstallclick.PNG)
 
-### 6.2 Install Git for Windows
+### 5.2 Install Git for Windows
 
 [Git for Windows](https://git-scm.com/downloads)
 
@@ -153,7 +145,7 @@ N/A
 
 
 
-### 6.3 Install Terminal
+### 5.3 Install Terminal
 
 [download Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 
@@ -164,7 +156,7 @@ N/A
 ![terminal3 | 100x100](./Images/terminal3.PNG)
 
 
-### 6.4 Install GitHub for Desktop
+### 5.4 Install GitHub for Desktop
 
 [download GitHub for Desktop](https://desktop.github.com/)
 
@@ -175,7 +167,7 @@ N/A
 ![gthbdesk1 | 100x100](./Images/gthbdesk1.PNG)
 
 
-## 7. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
+## 6. Create new project folder in local drive and clone .github repository into new folder using "git clone url"
 
 ![newfolder | 100x100](./Images/newfolder.PNG)
 
@@ -192,7 +184,7 @@ git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 ![clonegithub5 | 100x100](./Images/clonegithub5.PNG)
 
 
-## 8. Clone proofofconcepts repository into new folder using GitHub for Desktop
+## 7. Clone proofofconcepts repository into new folder using GitHub for Desktop
 
 ![cloneproofofconcepts1 | 100x100](./Images/cloneproofofconcepts1.PNG)
 
@@ -202,7 +194,7 @@ git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 
 ![cloneproofofconcepts4 | 100x100](./Images/cloneproofofconcepts4.PNG)
 
-## 9. Open the project folder in vs code
+## 8. Open the project folder in vs code
 
 ![openwithvscode1 | 100x100](./Images/openwithvscode1.PNG)
 
