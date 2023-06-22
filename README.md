@@ -179,13 +179,19 @@ N/A
 
 ![newfolder | 100x100](./Images/newfolder.PNG)
 
-![clone1 | 100x100](./Images/clone1.PNG)
+![clonegithub1 | 100x100](./Images/clonegithub1.PNG)
 
 ```
 git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 ```
 
-![clone2 | 100x100](./Images/clone2.PNG)
+![clonegithub2 | 100x100](./Images/clonegithub2.PNG)
+
+![clonegithub3 | 100x100](./Images/clonegithub3.PNG)
+
+![clonegithub4 | 100x100](./Images/clonegithub4.PNG)
+
+![clonegithub5 | 100x100](./Images/clonegithub5.PNG)
 
 
 ## 8. Clone proofofconcepts repository into new folder using GitHub for Desktop
