@@ -189,8 +189,6 @@ git clone https://github.com/Anusha-s-Tech-Skillz-Academy/.github.git
 
 ![clonegithub3 | 100x100](./Images/clonegithub3.PNG)
 
-![clonegithub4 | 100x100](./Images/clonegithub4.PNG)
-
 ![clonegithub5 | 100x100](./Images/clonegithub5.PNG)
 
 
