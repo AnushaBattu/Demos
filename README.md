@@ -1,6 +1,6 @@
 # Introduction to Microservices - Pre-requisites and Setup
 
-### Date Time: 29-Jun-2023 at 09:00 AM IST
+### Date Time: 29-Jun-2023 at 11:00 AM IST
 
 ![Anusha|150x150](./Images/Anushademo1.PNG)
 
